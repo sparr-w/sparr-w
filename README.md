@@ -1,4 +1,4 @@
-<p align="center">
-# Stefan Hambridge
+
+# <p align="center"> Stefan Hambridge </p>
 ### Graduate Gameplay Programmer
-</p>
+
